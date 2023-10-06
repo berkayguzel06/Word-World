@@ -1,6 +1,5 @@
-# C-Projects
+# Word World
 
-Word World
 Write a C# program that takes a text and a pattern from the user and prints all the words in the text that corresponds to this
 pattern. 
 
